@@ -1,4 +1,4 @@
-# Gen-AI
+# generative_ai
 <ul>
 <li>姓名：劉瀞雅
 <li>系級：資教 113
